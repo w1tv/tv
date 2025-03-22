@@ -36,4 +36,4 @@
       "url": "http://175.178.251.183:6689/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }]}
+    }]},
